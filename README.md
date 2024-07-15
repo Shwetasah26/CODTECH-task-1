@@ -7,6 +7,8 @@ DURATION: JUNE TO JULY 2024
 OVERVIEW OF THE PROJECT 
 
 Project: "QUIZ GAME"
+![Screenshot 2024-07-15 195738](https://github.com/user-attachments/assets/61b83a0e-29fe-4d5b-a783-2d11e658e743)
+
 ![Screenshot 2024-07-15 195752](https://github.com/user-attachments/assets/02dbcdf8-965a-4c4f-8461-6b3920743caf)
 
 Objective
