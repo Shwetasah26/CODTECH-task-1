@@ -1,0 +1,70 @@
+#include <stdio.h>
+
+int main() {
+    int score = 0;
+    int answer;
+
+    // Question 1
+    printf("Question 1: What is the national flower of India?\n");
+    printf("1. Rose\n");
+    printf("2. Sunflower\n");
+    printf("3. Lotus\n");
+    printf("4. Marigold\n");
+    printf("Your answer: ");
+    scanf("%d", &answer);
+    if (answer == 3) {
+        printf("Correct!\n");
+        score++;
+    } else {
+        printf("Wrong! The correct answer is 3. Lotus.\n");
+    }
+
+    // Question 2
+    printf("\nQuestion 2: What is the capital of Jharkhand state?\n");
+    printf("1. Bokaro\n");
+    printf("2. Ranchi\n");
+    printf("3. Jhamshedpur\n");
+    printf("4. Dhanbad\n");
+    printf("Your answer: ");
+    scanf("%d", &answer);
+    if (answer == 2) {
+        printf("Correct!\n");
+        score++;
+    } else {
+        printf("Wrong! The correct answer is 2. Ranchi.\n");
+    }
+
+    // Question 3
+    printf("\nQuestion 3: How many Union Territories in India?\n");
+    printf("1. 8\n");
+    printf("2. 9\n");
+    printf("3. 7\n");
+    printf("4. 6\n");
+    printf("Your answer: ");
+    scanf("%d", &answer);
+    if (answer == 1) {
+        printf("Correct!\n");
+        score++;
+    } else {
+        printf("Wrong! The correct answer is 1. 8.\n");
+    }
+
+    // Final score
+    printf("\nYour final score is: %d out of 3\n", score);
+
+    // Feedback based on the score
+    if (score == 3) {
+        printf("Excellent! You got all answers correct.\n");
+    } else if (score == 2) {
+        printf("Good job! You got 2 out of 3 correct.\n");
+    } else if (score == 1) {
+        printf("You got 1 out of 3 correct. Better luck next time!\n");
+    } else {
+        printf("You got all answers wrong. Try again!\n");
+    }
+
+    return 0;
+}
+
+
+
