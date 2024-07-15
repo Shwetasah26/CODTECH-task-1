@@ -8,9 +8,8 @@
 
 
 ###Project: "QUIZ GAME"
-![Screenshot 2024-07-15 195738](https://github.com/user-attachments/assets/61b83a0e-29fe-4d5b-a783-2d11e658e743)
+![Uploading Screenshot 2024-07-15 204952.png…]()
 
-![Screenshot 2024-07-15 195752](https://github.com/user-attachments/assets/02dbcdf8-965a-4c4f-8461-6b3920743caf)
 
 ### Objective
 To develop a simple quiz game that presents multiple choice questions to the user.The game keeps track of the user's score and provides feedback based on their answers.
