@@ -8,7 +8,8 @@
 
 
 ###Project: "QUIZ GAME"
-![Uploading Screenshot 2024-07-15 204952.png…]()
+![Screenshot 2024-07-15 204952](https://github.com/user-attachments/assets/2b83104b-9047-4b1e-81f8-25ab9e9c01a6)
+
 
 
 ### Objective
